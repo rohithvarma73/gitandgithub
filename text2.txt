@@ -1,1 +1,2 @@
 text2 added
+ensuring changes that i made is saved in remote repo or not
